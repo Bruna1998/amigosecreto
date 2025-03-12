@@ -19,11 +19,6 @@ Este projeto permite adicionar amigos a uma lista e, com um simples clique, sort
 - CSS3
 - JavaScript
 
-## 📷
-
-![Adicionando um amigo]("C:\Users\bruna.may\Documents\Projeto-ONE\Desafio Amigo Secreto\adicionando_amigos.png")
-![Amigo Sorteado]("C:\Users\bruna.may\Documents\Projeto-ONE\Desafio Amigo Secreto\amigo_sorteado.png")
-
 ## 🎯 Como Usar
 
 1️⃣ Clone este repositório:
